@@ -7,4 +7,5 @@ Game objective: Tap space to help Terry the Ant avoid the roots and collect frui
 Team of 5 college freshman, this was our first time creating a game. 
 
 Tools used: Unity Engine, Krita
+
 Created by: Allie H., Ximena M., Kenny V., Emma L., Jesus G.
